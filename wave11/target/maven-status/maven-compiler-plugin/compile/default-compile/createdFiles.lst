@@ -1,0 +1,10 @@
+servlet\LogoutServlet.class
+com\mycompany\wave11\DAO.class
+com\mycompany\wave11\resources\JakartaEE10Resource.class
+model\usuario.class
+servlet\EditarPerfilServlet.class
+servlet\RegisterServlet.class
+com\mycompany\wave11\DatabaseConnector.class
+com\mycompany\wave11\JakartaRestConfiguration.class
+servlet\ObtenerDatosUsuarioServlet.class
+servlet\LoginServlet.class
